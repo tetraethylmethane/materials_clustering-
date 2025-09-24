@@ -1,6 +1,6 @@
 # Material Clustering for Efficient Component Manufacturing
 
-## 📌 Problem Statement
+## Problem Statement
 
 Manual material selection is slow, error-prone, and often fails to capture **multidimensional property similarities**. This results in longer design cycles and suboptimal material utilization.
 
@@ -8,7 +8,7 @@ To address this, we apply **unsupervised machine learning (K-Means clustering)**
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Develop a **K-Means clustering model** for material classification.
 * Reduce engineering decision-making time.
@@ -16,7 +16,7 @@ To address this, we apply **unsupervised machine learning (K-Means clustering)**
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **Source**: [Kaggle - Materials Dataset](https://www.kaggle.com/datasets/purushottamnawale/materials/data)
 * **Features Used**:
@@ -53,7 +53,7 @@ To address this, we apply **unsupervised machine learning (K-Means clustering)**
 
 ---
 
-## 📊 Results
+## Results
 
 * **Optimal clusters** identified using Silhouette analysis.
 * PCA projections confirmed **well-separated clusters**.
@@ -68,30 +68,10 @@ These insights enable **quick material selection** for engineers.
 
 ---
 
-## 🚀 Outcomes
+## Outcomes
 
 * Reduced manual effort in material classification.
 * Data-driven insights for **efficient component manufacturing**.
 * Ready-to-use **Colab Notebook**: [Open Notebook](https://colab.research.google.com/drive/1TLGp2HWcwKwkvyhBkYde8hSruProSMG_?usp=sharing)
-
----
-
-## 📁 Repository Structure
-
-```
-├── Material_Clustering.ipynb    
-├── Data.csv                   
-├── README.md                    
-```
-
----
-
-## 👨‍💻 Team Members
-
-* Swastik Kumar (1024060150)
-* Manav Pansari (1024060151)
-* Muskan Garg (1024060163)
-* Deepak Kumar (1024060133)
-* Vansh Sharma (1024060117)
 
 ---
