@@ -30,7 +30,7 @@ To address this, we apply **unsupervised machine learning (K-Means clustering)**
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Preprocessing
 
